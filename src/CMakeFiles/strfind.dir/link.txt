@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libstrfind.so -o /lib/libstrfind.so CMakeFiles/strfind.dir/strfind.c.o 
