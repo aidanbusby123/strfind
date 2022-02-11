@@ -1,5 +1,0 @@
-/home/aidan/Documents/C/strfind/CMakeFiles/edit_cache.dir
-/home/aidan/Documents/C/strfind/CMakeFiles/rebuild_cache.dir
-/home/aidan/Documents/C/strfind/src/CMakeFiles/strfind.dir
-/home/aidan/Documents/C/strfind/src/CMakeFiles/edit_cache.dir
-/home/aidan/Documents/C/strfind/src/CMakeFiles/rebuild_cache.dir
