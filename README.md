@@ -1,2 +1,2 @@
 # strfind
-Advanced string finding library for C
+strfind is an advanced string finding function that parses a given character array for 
